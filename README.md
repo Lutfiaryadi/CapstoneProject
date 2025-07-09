@@ -1,6 +1,6 @@
 # Kidoo's Store – Capstone Project
 
-Hello! My name is **Lutfi Aryadi**.
+Hello! My name is **Lutfi Aryadi Sukmono**.
 
 This is my **first Capstone Project** as Student at **Purwadhika Digital Technology School**, built using **Python** in **Visual Studio Code**.
 
