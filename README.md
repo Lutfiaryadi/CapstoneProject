@@ -2,7 +2,7 @@
 
 Hello! My name is **Lutfi Aryadi**.
 
-This is my **first Capstone Project** for **Purwadhika Digital Technology School**, built using **Python** in **Visual Studio Code**.
+This is my **first Capstone Project** as Student at **Purwadhika Digital Technology School**, built using **Python** in **Visual Studio Code**.
 
 ---
 
