@@ -1,4 +1,4 @@
-# Kidoo's Store – Capstone Project
+# Kidoo's Store – Capstone Project M1
 
 Hello! My name is **Lutfi Aryadi Sukmono**.
 
